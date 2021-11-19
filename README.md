@@ -11,4 +11,5 @@ Fully working fake Google search engine clone using html CSS and JS
 
 ## Screenshots
 
-![Capture](https://user-images.githubusercontent.com/66682123/142696694-5ac877b4-97c9-498a-a1ac-99450b2c1db7.PNG)
+![Capture](https://user-images.githubusercontent.com/66682123/142696915-1a788460-af65-475f-a8e3-f4c4a24eefad.png)
+
