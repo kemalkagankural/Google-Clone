@@ -7,7 +7,7 @@ Fully working fake Google search engine clone using html CSS and JS
 
 
 ## Demo
-
+https://kemalkagankural.github.io/Google-Clone/
 
 ## Screenshots
 
